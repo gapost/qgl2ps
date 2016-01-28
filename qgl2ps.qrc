@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>math.svg</file>
+    </qresource>
+</RCC>
